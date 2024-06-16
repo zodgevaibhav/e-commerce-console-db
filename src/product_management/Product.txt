@@ -2,4 +2,4 @@ ProductName,Qty,price
 Pen,10,5rs
 Book,10,5rs
 Shorpener,3,5rs
-Note book,10,5rs
+Note book,50,50rs
