@@ -11,10 +11,8 @@ public class ApplicationMain {
 
 	public static void main(String[] args) throws IOException, SQLException {
 
-		System.out.println(" #############  Welcome to Ecommerse ########## ");
+		System.out.println(" #############  Welcome to E-Commerce Project ########## ");
 
-		
-		
 		Scanner sc = new Scanner(System.in); // Cunstructor | in => Function
 
 		boolean shallIKeepRunningCode = true;
