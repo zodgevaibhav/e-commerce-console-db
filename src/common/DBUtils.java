@@ -25,8 +25,7 @@ public class DBUtils {
 		return result;
 	}
 
-	public static void executeQuery(String query) throws SQLException { // Insert, Update, Delete, Create, Drop,
-																		// truncate
+	public static void executeQuery(String query) throws SQLException { // Insert, Update, Delete, Create, Drop, // truncate													
 		statement.execute(query);
 	}
 }
